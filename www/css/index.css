@@ -1,2 +1,12 @@
 ﻿body {
 }
+
+#MyDiv{
+    height:100px;
+    width:100px;
+    background-color:azure;
+}
+
+#MyDiv:active{
+    background-color:antiquewhite;
+}
